@@ -20,8 +20,9 @@ private:
 	void beginDraw();
 	void endDraw();
 	sf::RectangleShape rect1;
+	sf::RectangleShape rect2;
 
-	float speed = 10.f;
+	float speedx = 40.f;
 	
 
 
